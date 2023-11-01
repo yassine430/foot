@@ -50,9 +50,9 @@
 
 "app_redirect":"yes",
 "redirect_package_name":"com.example.test",
-"banner_network_choice":"admob", 
-"interstisial_network_choice":"admob", 
-"native_network_choice":"admob"
+"banner_network_choice":"XXXX", 
+"interstisial_network_choice":"XXXX", 
+"native_network_choice":"XXXX"
   
  
   
