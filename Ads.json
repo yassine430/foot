@@ -1,42 +1,35 @@
-{"ads":{
-
- "ShowAds":true,
-    "ShowLoadingAds":true,
-    "ClickCount":1,
-    "PriorityBanner":"admob",
-    "priorityInterstitial":"admob",
-    "PriorityNative":"admob",
-    "PriorityReward":"admob",
-    "IronAppKey":"85460dcd",
-    "IronBanner":"DefaultBanner",
-    "IronInterstitial":"DefaultInterstitial",
-    "IronReward":"DefaultReward",
-    "MaxBanner":"xxxxxxxx",
-    "MaxInterstitial":"xxxxxxxx",
-    "MaxNative":"5534d47212ed8e80",
-    "MaxReward":"",
-    "FanBanner":"",
-    "FanInterstitial":"",
-    "FanNative":"",
-    "AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
-    "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
-    "AdmobNative":"ca-app-pub-3940256099942544/2247696110",
-    "admob_reward":"ca-app-pub-3940256099942544/5224354917"
-  },
-  "ControlApp":{
- "PlayerPackageName": "com.videoplayer.krcplayerhdfree",
- "app_redirect":"yes",
-"redirect_package_name":"com.example.test"
-    
+{
+    "Ads": {
+        "ShowAds": true,
+        "ShowLoadingAds": true,
+        "ClickCount": 1,
+        "PriorityBanner": "admob",
+        "priorityInterstitial": "admob",
+        "PriorityNative": "admob",
+        "PriorityReward": "admob",
+        "IronAppKey": "",
+        "IronBanner": "DefaultBanner",
+        "IronInterstitial": "DefaultInterstitial",
+        "IronReward": "DefaultRewardedVideo",
+        "MaxBanner": "",
+        "MaxInterstitial": "",
+        "MaxNative": "",
+        "MaxReward": "",
+        "FanBanner": "xxxxx",
+        "FanInterstitial": "xxxxx",
+        "FanNative": "xxxxxx",
+       "AdmobInterstitial":"",
+      "AdmobBanner":"",
+      "AdmobNative":"",
+      "AdmobReward":""
+    },
+    "ControlApp": {
+        "ShowFootballScoresWarning": false,
+        "ShowCricketSCoresWarning": false,
+        "PlayerPackageName": "",
+        "OnesignalID": "xxxxx",
+        "ShowUpdate": false,
+        "UpdateVersion": 2,
+        "UpdateLink": ""
     }
-
-
- 
-
-
-  
- 
-  
-
-
 }
